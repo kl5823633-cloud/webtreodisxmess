@@ -1,0 +1,58 @@
+{
+  "keys": {
+    "ADMINKEY123": [
+      null,
+      [
+        "treongo",
+        "nhaydz",
+        "so",
+        "two_c",
+        "rename",
+        "dis1",
+        "dis2",
+        "dis3",
+        "dis4",
+        "dis5",
+        "admin",
+        "menu"
+      ],
+      {
+        "treongo": 999,
+        "nhaydz": 999,
+        "so": 999,
+        "two_c": 999,
+        "rename": 999,
+        "dis1": 999,
+        "dis2": 999,
+        "dis3": 999,
+        "dis4": 999,
+        "dis5": 999
+      }
+    ],
+    "USERKEY1": [
+      "2025-11-02 15:55:58",
+      [
+        "treongo",
+        "nhaydz",
+        "two_c",
+        "rename",
+        "dis1",
+        "dis2",
+        "menu"
+      ],
+      {
+        "treongo": 5,
+        "nhaydz": 10,
+        "so": 0,
+        "two_c": 15,
+        "rename": 20,
+        "dis1": 10,
+        "dis2": 8,
+        "dis3": 0,
+        "dis4": 0,
+        "dis5": 0
+      }
+    ]
+  },
+  "used_tasks": {}
+}
